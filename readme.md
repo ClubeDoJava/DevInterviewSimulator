@@ -26,6 +26,7 @@ O **DevInterviewSimulator** é uma ferramenta interativa que permite aos desenvo
 
 - **Integração com IA**:
     - OpenAI API (para gerar perguntas dinâmicas e fornecer respostas quando necessário)
+    - ***** pretendo mudar para o Claude pois a open AI às vezes causa timeout e longo tempo de requisição *****
 
 ---
 
